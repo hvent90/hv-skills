@@ -1,0 +1,8 @@
+{
+  "name": "beads-agent-village",
+  "description": "Set up and use Beads issue tracking with MCP Agent Mail for multi-agent workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Ventura"
+  }
+}

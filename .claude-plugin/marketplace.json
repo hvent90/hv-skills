@@ -32,6 +32,21 @@
         "development",
         "meta"
       ]
+    },
+    {
+      "name": "beads-agent-village",
+      "source": "./beads-agent-village",
+      "description": "Set up and orchestrate multi-agent workflows using Beads (shared issue tracking/memory) and MCP Agent Mail (agent messaging). Use when coordinating multiple agents, setting up agent villages, or tracking work across agent sessions.",
+      "version": "1.0.0",
+      "keywords": [
+        "beads",
+        "agent-mail",
+        "multi-agent",
+        "orchestration",
+        "issue-tracking",
+        "swarm",
+        "agent-village"
+      ]
     }
   ]
 }
