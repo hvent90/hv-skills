@@ -42,8 +42,7 @@ Use Beads (`bd`) for all work tracking. Run `bd quickstart` to get started.
 For multi-agent coordination, add MCP Agent Mail:
 
 ```bash
-# Install via npm or your preferred method
-npm install -g mcp-agent-mail
+curl -fsSL "https://raw.githubusercontent.com/Dicklesworthstone/mcp_agent_mail/main/scripts/install.sh" | bash -s -- --yes
 ```
 
 ## Core Beads Commands
@@ -357,5 +356,5 @@ Use bv instead of parsing beads.jsonl—it computes PageRank, critical paths, cy
 
 - [Beads GitHub](https://github.com/steveyegge/beads)
 - [Beads Viewer](https://github.com/Dicklesworthstone/beads_viewer)
-- [MCP Agent Mail](https://github.com/jeffreyemanuel/mcp-agent-mail)
+- [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail)
 - [Vibe Coding Book](https://www.amazon.com/dp/1966280025)
