@@ -1,0 +1,8 @@
+{
+  "name": "create-skill",
+  "description": "Create Claude Code skills with proper structure, frontmatter, and best practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Ventura"
+  }
+}

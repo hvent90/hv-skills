@@ -1,0 +1,8 @@
+{
+  "name": "fetch-pr-comments",
+  "description": "Fetch unresolved PR review comments and feedback on the current branch",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Ventura"
+  }
+}

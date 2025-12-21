@@ -1,0 +1,37 @@
+{
+  "name": "hv-skills",
+  "owner": {
+    "name": "Henry Ventura"
+  },
+  "metadata": {
+    "description": "A marketplace for Claude Code skills by Henry Ventura",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fetch-pr-comments",
+      "source": "./fetch-pr-comments",
+      "description": "Fetch unresolved PR review comments and feedback on the current branch. Use when you need to address outstanding PR review items or see what feedback needs to be resolved.",
+      "version": "1.0.0",
+      "keywords": [
+        "github",
+        "pull-request",
+        "code-review",
+        "pr-comments"
+      ]
+    },
+    {
+      "name": "create-skill",
+      "source": "./create-skill",
+      "description": "Create Claude Code skills with proper structure, frontmatter, and best practices. Use when creating new skills, writing SKILL.md files, or structuring Claude Code plugins.",
+      "version": "1.0.0",
+      "keywords": [
+        "claude-code",
+        "skills",
+        "plugins",
+        "development",
+        "meta"
+      ]
+    }
+  ]
+}
