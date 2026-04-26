@@ -1,0 +1,8 @@
+{
+  "name": "discord-dm",
+  "description": "Send the user a Discord DM via a configured bot — text and/or file attachments in one CLI call",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Ventura"
+  }
+}

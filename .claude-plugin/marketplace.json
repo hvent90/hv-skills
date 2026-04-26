@@ -47,6 +47,19 @@
         "swarm",
         "agent-village"
       ]
+    },
+    {
+      "name": "discord-dm",
+      "source": "./discord-dm",
+      "description": "Send the user a Discord DM via a configured bot — text and/or file attachments in one CLI call. Use for proactive notifications, long-running task pings, or sharing screenshots when the user is away from terminal.",
+      "version": "1.0.0",
+      "keywords": [
+        "discord",
+        "notifications",
+        "messaging",
+        "dm",
+        "bot"
+      ]
     }
   ]
 }
